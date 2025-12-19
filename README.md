@@ -13,11 +13,6 @@ A simple Flutter-based task management application designed to demonstrate state
 - Dart
 - Material Design
 
-## Screenshots
-| Home Screen | Add Task | Completed Task |
-|------------|----------|----------------|
-| ![](screenshots/home.png) | ![](screenshots/add_task.png) | ![](screenshots/completed_task.png) |
-
 ## Project Structure
 - `lib/main.dart` – Core application logic and UI
 - `pubspec.yaml` – Dependency and configuration file
