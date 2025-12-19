@@ -1,0 +1,13 @@
+name: task_manager
+description: A simple Flutter task management app
+version: 1.0.0
+
+environment:
+  sdk: ">=2.17.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
